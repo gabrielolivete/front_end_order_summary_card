@@ -1,2 +1,2 @@
 # front_end_order_summary_card
-This is an order summary card built using a supplied design.
+This is a project in which I built an order summary card using a supplied design.
